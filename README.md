@@ -62,7 +62,7 @@ KSWEB APK
  
 FOLLOW FOR MORE 💓
 
-INSTAGRAM <a href="https://instagram.com/nikhil4494kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nikhil4494kumar" height="30" width="40" /></a>
+INSTAGRAM <a href="https://www.instagram.com/nikhil4494kumar?igsh=MW5lYm9uZjU5b3hrOQ==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nikhil4494kumar" height="30" width="40" /></a>
 </p> 
 
 ## DISCLAIMER
