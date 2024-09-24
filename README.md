@@ -50,8 +50,7 @@
 
 KSWEB APK Download 
 
-
-
+https://dl.apkmodct.com/apps/KSWEB[apkmodct.com].apk
 
 ## How to Build 
  1. Download AIRAVAT.zip
